@@ -6,4 +6,4 @@ Sou estudante de Ciência de Dados pela FIAP e entusiasta do mundo de dados e te
 
 #### Projetos pessoais que estou trabalhando:
 - [Classificação de cogumelos com Machine Learning 🍄](https://github.com/ryanrodr/ml-mushrooms)
-- [Exploratory Data Analysis - Jobs and Salaries in Data Science](https://github.com/ryanrodr/eda-jobs-in-data)
+- [Empregos e salários em Ciência de Dados 🔍](https://github.com/ryanrodr/eda-jobs-in-data)
