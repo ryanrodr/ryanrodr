@@ -5,5 +5,5 @@ Sou estudante de Ciência de Dados pela FIAP e entusiasta do mundo de dados e te
 ![GitHub](https://github-readme-stats.vercel.app/api?username=ryanrodr&hide=contribs,prs&theme=dark)
 
 #### Projetos pessoais que estou trabalhando:
-- [Classificação de cogumelos com Machine Learning 🍄](https://github.com/ryanrodr/ml-mushrooms)
 - [Empregos e salários em Ciência de Dados 🔍](https://github.com/ryanrodr/eda-jobs-in-data)
+- [Classificação de cogumelos com Machine Learning 🍄](https://github.com/ryanrodr/ml-mushrooms)
